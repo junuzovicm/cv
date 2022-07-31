@@ -12,7 +12,7 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **Gender:** Male
 <br>
 <br>
-### Work experience
+## Work experience
 <br>
 **EBG MedAustron GmbH, Austria** 
 <br>
