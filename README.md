@@ -28,16 +28,6 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 - Control of external software suppliers
 <br>
 <!-- -->
-**_10/2011-09/2013_**
-<br>
-**CERN, Switzerland** 
-<br>
-_European organization for nuclear research_
-- Software quality assurance
-- Software and configuration release management for MedAustron project
-<br>
-<!-- -->
-
 # Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
