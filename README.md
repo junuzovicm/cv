@@ -1,7 +1,10 @@
 ### Muhamed Junuzovic
 Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 <br>
-be
+**Phone:** + 43 676 3919270
+**eMail:** muhamed.junuzovic@outlook.com
+**eMail:** [muhamed.junuzovic@outlook.com] (muhamed.junuzovic@outlook.com)
+
 
 
 ## Jekyll Themes
