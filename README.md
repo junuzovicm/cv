@@ -1,4 +1,4 @@
-<img src="https://github.com/junuzovicm/cv/blob/gh-pages/_11.jpg" width="200" height="260">
+<img src="https://github.com/junuzovicm/cv/blob/gh-pages/_11.jpg" width="180" height="260">
 ## Muhamed Junuzovic
 Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 <br>
