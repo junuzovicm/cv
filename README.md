@@ -97,3 +97,30 @@ SGS United Kingdom<br>
 Title of qualification awarded: **Environmental (EMS) Auditor/Lead auditor ISO 14001**
 <br><br>
 
+## Expert Knowledge
+Medical Device Software Lifecycle (EN 62304, IEC 82304)<br>
+Medical Device Regulation (MDR) / Medical Device Directive (MDD) <br>
+Conformity Assessment<br>
+Version & Configuration Management<br>
+Change Management<br>
+Deviation Control<br>
+Cyber Security for medical devices (IEC TR 60601-4-5)
+  
+## Additional Qualifications 
+QMS according to ISO13485<br> 
+Risk Management, EN ISO 14971, IEC/TR 80002-1<br>
+Usability engineering, IEC 62366<br>
+Medical electrical equipment, IEC 60601-1, IEC 60601-2-64<br>
+Requirement engineering<br>
+MS Office, MS Visio, MS Project, PowerShell, XML, UML, basics of C# and PHP<br>
+Creative thinking, Strategic planning, Project management, Team player
+  
+##Languages	
+Mother tongues: Bosnian, Croatian 
+<br>
+English (C1 - Self-assessment)
+<br>
+German (B2 - Self-assessment)
+  
+## Additional information	
+Driving licence “B” category
