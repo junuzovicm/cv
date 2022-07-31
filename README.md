@@ -26,22 +26,18 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 - Software risk management
 - Cyber security 
 - Control of external software suppliers
-<br><br>
+<br>
 <!-- -->
-**_09/2013-_**
+**_10/2011-09/2013_**
 <br>
-**EBG MedAustron GmbH, Austria** 
+**CERN, Switzerland ** 
 <br>
-_Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy_
-- Medical Device Affairs - senior expert, expert for medical software, group lead deputy
-- Expert for Medical Device Regulation (EU) 2017/745
-- Member of role “Person Responsible for Regulatory Compliance”
-- Conformity Assessment & Product release
-- Software project coordination
-- Software risk management
-- Cyber security 
-- Control of external software suppliers
-<br><br>
+_European organization for nuclear research_
+- Software quality assurance
+- Software and configuration release management for MedAustron project
+<br>
+<!-- -->
+
 # Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
