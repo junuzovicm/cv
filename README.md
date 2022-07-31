@@ -115,7 +115,7 @@ Requirement engineering<br>
 MS Office, MS Visio, MS Project, PowerShell, XML, UML, basics of C# and PHP<br>
 Creative thinking, Strategic planning, Project management, Team player
   
-##Languages	
+## Languages	
 Mother tongues: Bosnian, Croatian 
 <br>
 English (C1 - Self-assessment)
