@@ -12,3 +12,31 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **Gender:** Male
 <br>
 <br>
+### Work experience
+**_09/2013-_**
+<br>
+**EBG MedAustron GmbH, Austria** 
+<br>
+_Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy_
+- Medical Device Affairs - senior expert, expert for medical software, group lead deputy
+- Expert for Medical Device Regulation (EU) 2017/745
+- Member of role “Person Responsible for Regulatory Compliance”
+- Conformity Assessment & Product release
+- Software project coordination
+- Software risk management
+- Cyber security 
+- Control of external software suppliers
+<br>
+</ul>
+**EBG MedAustron GmbH, Austria** 
+<br>
+_Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy_
+- Medical Device Affairs - senior expert, expert for medical software, group lead deputy
+- Expert for Medical Device Regulation (EU) 2017/745
+- Member of role “Person Responsible for Regulatory Compliance”
+- Conformity Assessment & Product release
+- Software project coordination
+- Software risk management
+- Cyber security 
+- Control of external software suppliers
+<br>
