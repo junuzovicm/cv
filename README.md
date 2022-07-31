@@ -13,7 +13,7 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 <br>
 <br>
 ### Work experience
-<br><br>
+<br>
 **EBG MedAustron GmbH, Austria** 
 <br>
 _Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy_<br>
@@ -25,10 +25,10 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 -Software risk management<br>
 -Cyber security <br>
 -Control of external software suppliers
+<br><br>
 **10/2011-09/2013**
 <br>
-**CERN, Switzerland** 
-<br>
+**CERN, Switzerland** <br>
 _European organization for nuclear research_<br>
 -Software quality assurance<br>
 -Software and configuration release management for MedAustron project<br>
