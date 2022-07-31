@@ -57,27 +57,43 @@ _Software development_<br>
 Donau-Uni Krems, Austria<BR>
 EU Regulatory Affairs
 <br><br>
-**10/2011-09/2013**
+**2006-2009**
 <br>
-**CERN, Switzerland** <br>
-_European organization for nuclear research_<br>
--Software quality assurance<br>
--Software and configuration release management for MedAustron project<br>
--Member of role “Person Responsible for Regulatory Compliance”<br>
+**Dipl. Computer Scientist** <br>
+Pan-European University, Banja Luka, Bosnia-Herzegovina
+## Additional Education and Training
+**01/2022**
 <br>
-**12/2010-10/2011**
+**IEC 60601- 1 Medical electrical equipment - General requirements for basic safety and essential performance**<br>
+Johner Institute for Healthcare IT, Switzerland GmbH
+<br><br>
+03/2021<br>
+**Cyber Security Risk Management for Medical Devices**
 <br>
-**PMW DOO, Bosnia-Herzegovina** 
+TÜV SÜD, Germany
+<br><br>
+09/2019<br>
+**Application of usability engineering to medical devices (IEC 62366 1:2015)**<br>
+ACMIT, Wiener Neustadt<br><br>
+04/2019
 <br>
-_Renewable Energy Systems_<br>
--Managing director<br>
--ISO 9001 consultant<br>
+**CPMS training**<br>
+Johner Institute for Healthcare IT, Germany<br>
+Title of qualification awarded: **Certified Professional for Medical Software**<br><br>
+01/2019<br>
+**Requirement Engineering, IREB Foundation Level**<br>
+Nagarro, Austria<br><br>
+10/2018
 <br>
-**03/2005- 10/2010**
+**Software life cycle process according to IEC 62304**<br>
+Johner Institute for Healthcare IT, Germany<br><br>
+05/2010
 <br>
-**Softworks DOO, Bosnia-Herzegovina** 
-<br>
-_Software development_<br>
--CEO, Software Architect
+**Advanced EMS and EE Auditor Course – based on BS EN 16001:2009**<br>
+SGS Hungary<br><br>
+05/2010<br>
+**Advanced EMS and EE Auditor Course – based on ISO 14001**<br>
+SGS United Kingdom<br>
+Title of qualification awarded: **Environmental (EMS) Auditor/Lead auditor ISO 14001**
 <br><br>
 
