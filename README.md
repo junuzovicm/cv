@@ -21,15 +21,10 @@ Center for ion therapy and research, Particle accelerator with proton and carbon
 - Medical Device Affairs - senior expert, expert for medical software, group lead deputy
 - Expert for Medical Device Regulation (EU) 2017/745
 - Member of role “Person Responsible for Regulatory Compliance”
-<br>
 - Conformity Assessment & Product release
-<br>
 - Software project coordination
-<br>
 - Software risk management
-<br>
 - Cyber security 
-<br>
 - Control of external software suppliers
 <br><br>
 
