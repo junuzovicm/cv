@@ -28,11 +28,13 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 - Control of external software suppliers
 <br><br>
 **_10/2011-09/2013_**
+<br>
 CERN, Switzerland 
+<br>
 _European organization for nuclear research_ 
 - Software and configuration release management for MedAustron project
 - Software quality assurance
-
+<br><br>
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/junuzovicm/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 # Support or Contact
