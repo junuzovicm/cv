@@ -18,11 +18,8 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **EBG MedAustron GmbH, Austria** 
 <br>
 Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy
-<br>
 - Medical Device Affairs - senior expert, expert for medical software, group lead deputy
-<br>
 - Expert for Medical Device Regulation (EU) 2017/745
-<br>
 - Member of role “Person Responsible for Regulatory Compliance”
 <br>
 - Conformity Assessment & Product release
