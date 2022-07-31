@@ -1,4 +1,4 @@
-### Muhamed Junuzovic
+## Muhamed Junuzovic
 Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 <br>
 **eMail:** [muhamed.junuzovic@outlook.com](muhamed.junuzovic@outlook.com)
@@ -12,14 +12,14 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **Gender:** Male
 <br><br>
 
-## Work experience
+### Work experience
 09/2013-
 <br>
 **EBG MedAustron GmbH, Austria** 
 <br>
 Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy
 <br>
-Medical Device Affairs - senior expert, expert for medical software, group lead deputy
+- Medical Device Affairs - senior expert, expert for medical software, group lead deputy
 <br>
 - Expert for Medical Device Regulation (EU) 2017/745
 <br>
