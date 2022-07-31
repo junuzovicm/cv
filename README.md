@@ -10,16 +10,14 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **Nationality:** Austrian
 <br>
 **Gender:** Male
-<br><br>
-
-### Work experience
 <br>
-*09/2013-now*
+<br>
+### Work experience
+**_09/2013-now_**
 <br>
 **EBG MedAustron GmbH, Austria** 
 <br>
 Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy
-<br>
 - Medical Device Affairs - senior expert, expert for medical software, group lead deputy
 <br>
 - Expert for Medical Device Regulation (EU) 2017/745
