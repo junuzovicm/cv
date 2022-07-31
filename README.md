@@ -18,30 +18,30 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **EBG MedAustron GmbH, Austria** 
 <br>
 _Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy_<br>
--Medical Device Affairs - senior expert, expert for medical software, group lead deputy<br>
--Expert for Medical Device Regulation (EU) 2017/745<br>
--Member of role “Person Responsible for Regulatory Compliance”<br>
--Conformity Assessment & Product release<br>
--Software project coordination<br>
--Software risk management<br>
--Cyber security <br>
--Control of external software suppliers
+Medical Device Affairs - senior expert, expert for medical software, group lead deputy<br>
+Expert for Medical Device Regulation (EU) 2017/745<br>
+Member of role “Person Responsible for Regulatory Compliance”<br>
+Conformity Assessment & Product release<br>
+Software project coordination<br>
+Software risk management<br>
+Cyber security <br>
+Control of external software suppliers
 <br><br>
 **10/2011-09/2013**
 <br>
 **CERN, Switzerland** <br>
 _European organization for nuclear research_<br>
--Software quality assurance<br>
--Software and configuration release management for MedAustron project<br>
--Member of role “Person Responsible for Regulatory Compliance”<br>
+Software quality assurance<br>
+Software and configuration release management for MedAustron project<br>
+Member of role “Person Responsible for Regulatory Compliance”<br>
 <br>
 **12/2010-10/2011**
 <br>
 **PMW DOO, Bosnia-Herzegovina** 
 <br>
 _Renewable Energy Systems_<br>
--Managing director<br>
--ISO 9001 consultant<br>
+Managing director<br>
+ISO 9001 consultant<br>
 <br>
 **03/2005- 10/2010**
 <br>
