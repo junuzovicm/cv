@@ -12,11 +12,29 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **Gender:** Male
 <br><br>
 
-
-
-
-
-## Jekyll Themes
+## Work experience
+09/2013-
+<br>
+**EBG MedAustron GmbH, Austria** 
+<br>
+Center for ion therapy and research, Particle accelerator with proton and carbon ions beam therapy
+<br>
+Medical Device Affairs - senior expert, expert for medical software, group lead deputy
+<br>
+- Expert for Medical Device Regulation (EU) 2017/745
+<br>
+- Member of role “Person Responsible for Regulatory Compliance”
+<br>
+- Conformity Assessment & Product release
+<br>
+- Software project coordination
+<br>
+- Software risk management
+<br>
+- Cyber security 
+<br>
+- Control of external software suppliers
+<br><br>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/junuzovicm/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
