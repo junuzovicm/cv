@@ -1,7 +1,6 @@
 ### Muhamed Junuzovic
-Kupelwiesergasse 35
-2700 Wiener Neustadt
-Austria
+Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
+  be
 
 
 ## Jekyll Themes
