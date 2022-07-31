@@ -27,7 +27,7 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 - Cyber security 
 - Control of external software suppliers
 <br>
-<!-- -->
+<!-- list end -->
 **_09/2013-_**
 <br>
 **EBG MedAustron GmbH, Austria** 
