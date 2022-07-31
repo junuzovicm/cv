@@ -12,6 +12,8 @@ Kupelwiesergasse 35 | 2700 Wiener Neustadt  | Austria
 **Gender:** Male
 <br>
 <br>
+### Work experience
+<br>
 **_09/2013-_**
 <br>
 **EBG MedAustron GmbH, Austria** 
@@ -26,8 +28,6 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 - Cyber security 
 - Control of external software suppliers
 <br><br>
-<br>
-### Work experience
 **_09/2013-_**
 <br>
 **EBG MedAustron GmbH, Austria** 
