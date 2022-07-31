@@ -34,7 +34,7 @@ _European organization for nuclear research_<br>
 -Software quality assurance<br>
 -Software and configuration release management for MedAustron project<br>
 -Member of role “Person Responsible for Regulatory Compliance”<br>
-<br><br>
+<br>
 **12/2010-10/2011**
 <br>
 **PMW DOO, Bosnia-Herzegovina** 
@@ -42,7 +42,7 @@ _European organization for nuclear research_<br>
 _Renewable Energy Systems_<br>
 -Managing director<br>
 -ISO 9001 consultant<br>
-<br><br>
+<br>
 **03/2005- 10/2010**
 <br>
 **Softworks DOO, Bosnia-Herzegovina** 
