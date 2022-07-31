@@ -30,7 +30,7 @@ _Center for ion therapy and research, Particle accelerator with proton and carbo
 <!-- -->
 **_10/2011-09/2013_**
 <br>
-**CERN, Switzerland ** 
+**CERN, Switzerland** 
 <br>
 _European organization for nuclear research_
 - Software quality assurance
