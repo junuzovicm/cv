@@ -47,6 +47,37 @@ _Renewable Energy Systems_<br>
 <br>
 **Softworks DOO, Bosnia-Herzegovina** 
 <br>
-_ESoftware development_<br>
+_Software development_<br>
+-CEO, Software Architect
+## Academic Education
+**11/2019-**
+<br>
+**MSc student** 
+<br>
+Donau-Uni Krems, Austria<BR>
+EU Regulatory Affairs
+<br><br>
+**10/2011-09/2013**
+<br>
+**CERN, Switzerland** <br>
+_European organization for nuclear research_<br>
+-Software quality assurance<br>
+-Software and configuration release management for MedAustron project<br>
+-Member of role “Person Responsible for Regulatory Compliance”<br>
+<br>
+**12/2010-10/2011**
+<br>
+**PMW DOO, Bosnia-Herzegovina** 
+<br>
+_Renewable Energy Systems_<br>
+-Managing director<br>
+-ISO 9001 consultant<br>
+<br>
+**03/2005- 10/2010**
+<br>
+**Softworks DOO, Bosnia-Herzegovina** 
+<br>
+_Software development_<br>
 -CEO, Software Architect
 <br><br>
+
